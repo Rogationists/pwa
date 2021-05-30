@@ -1,0 +1,19 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Rogationist App",
+  "short_name": "Rogationist App",
+  "scope": "/app/",
+  "display": "browser",
+  "start_url": "https://rogationists.github.io/app/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [],
+  "url": "https://rogationists.github.io/app/#",
+  "generated": true,
+  "screenshots": []
+}
